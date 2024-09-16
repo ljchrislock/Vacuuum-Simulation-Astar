@@ -1,0 +1,19 @@
+Start Position: (3,7)
+Actions:
+Move to Dirt at: (4,6)
+Suck
+Move to Dirt at: (2,3)
+Suck
+Move to Dirt at: (1,3)
+Suck
+Move to Garbage at: (5,9)
+Dump
+Final Grid State:
+D0 D0 D0 D0 D0 D0 D0 D0 D0 D0 
+D0 O D0 D0 D0 O D0 D0 D0 D0 
+D0 D0 O D0 D0 O D0 D0 D0 D0 
+D0 D0 D0 O D0 O D0 D0 D0 D0 
+D0 O C O D0 O D0 D0 D0 D0 
+D0 D0 D0 D0 D0 D0 D0 D0 D0 G 
+THIS IS A CHECK FOR MYSELF TO ENSURE THAT MY ALGORITHM IS CLEANING THE WHOLE GRID AND NOTHING GETS LEFT BEHIND
+Final Position: (3,7)
